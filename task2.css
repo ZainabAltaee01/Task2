@@ -1,0 +1,56 @@
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+h2 {
+  font-size: 50px;
+  width: 60%;
+  font-weight: bold;
+  color: green;
+  text-align: left;
+  border: 2px solid;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  margin-top: 80px;
+}
+
+article {
+  width: 30%;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  margin-top: 100px;
+  border: 15px solid;
+  outline: dotted 5px red;
+}
+
+img {
+  width: 300px;
+  margin-left: 180px;
+  margin-right: auto;
+}
+
+p {
+  overflow: scroll;
+  font-size: 30px;
+  color: green;
+  width: 500px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px;
+  border-style: dashed;
+  border-color: rgb(184, 81, 81);
+  padding: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
